@@ -1,4 +1,4 @@
-import RPI.GPIO as GPIO
+import RPi.GPIO as GPIO
 import time
 
 # On précise qu'on utilise la numérotation des pins sur le BOARD au lieu de BCM
